@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xc4rRdN7FuOPVxLgzbJCmOVYjMKv49xtk3RTZRsDv5WsZGJiG0XNyEXT8CwezvUVHMHBie2hVQjlnwEvigII/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikit\\source\\repos\\Разное\\Nominations\\Nominations\\Nominations.iOS\\Nominations.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

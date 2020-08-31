@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-M0DKI63</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=13a2c4e5-234c-4e87-a575-0bef54609b7a</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D526D8789819CFA8ABE132DE9F3E94E703D502636B5AA443DACD2E7684BF33CA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4f04ba4a-421b-4c42-b09c-9ee5395bbc85_1.0.0.0_x86__53jrx8rab7mpp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4f04ba4a-421b-4c42-b09c-9ee5395bbc85_53jrx8rab7mpp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4f04ba4a-421b-4c42-b09c-9ee5395bbc85</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=13a2c4e5-234c-4e87-a575-0bef54609b7a</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-15T08:51:35.229</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:48.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-14T14:12:49.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2018-10-04T10:37:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2018-12-17T23:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Images\LogoType.png">
+      <PackagePath>Images\LogoType.png</PackagePath>
+      <Modified>2020-05-14T14:46:19.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2016-11-29T23:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2016-11-29T23:58:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\MyQuiz.UWP.dll">
+      <PackagePath>MyQuiz.UWP.dll</PackagePath>
+      <Modified>2020-05-15T08:51:33.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\MyQuiz.UWP.exe">
+      <PackagePath>MyQuiz.UWP.exe</PackagePath>
+      <Modified>2020-05-15T08:51:35.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\MyQuiz.UWP.pdb">
+      <PackagePath>MyQuiz.UWP.pdb</PackagePath>
+      <Modified>2020-05-15T08:51:35.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nikit\Desktop\MyQuiz\MyQuiz\MyQuiz.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-05-15T08:49:44.980</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\microsoft.ui.xaml\2.1.190606001\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.1.appx">
+      <Name>Microsoft.UI.Xaml.2.1</Name>
+      <Version>2.11906.6001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.1, MinVersion = 2.11906.6001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\microsoft.ui.xaml\2.1.190606001\build\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\nikit\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\nikit\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

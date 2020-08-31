@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\bin\Debug\netstandard2.0\Lection_10_04.deps.json
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\bin\Debug\netstandard2.0\Lection_10_04.dll
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.AssemblyInfo.cs
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\bin\Debug\netstandard2.0\ref\Lection_10_04.dll
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\bin\Debug\netstandard2.0\Lection_10_04.pdb
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.dll
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\ref\Lection_10_04.dll
+C:\Users\nikit\source\repos\Lections\Lection_10_04\Lection_10_04\Lection_10_04\obj\Debug\netstandard2.0\Lection_10_04.pdb

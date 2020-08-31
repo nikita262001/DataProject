@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FileHandling.MainPage">
+
+    <StackLayout VerticalOptions="Center">
+
+        <Button Text="CheckFolders"
+                Clicked="Button_Clicked"
+                HorizontalOptions="CenterAndExpand"/>
+
+        <Button Text="CreateFileOnPlatform"
+                Clicked="Button_Clicked_1"
+                HorizontalOptions="CenterAndExpand"/>
+
+        <Button Text="Open embedded file"
+                Clicked="Button_Clicked_2"
+                HorizontalOptions="CenterAndExpand"/>
+
+        <Label  x:Name="text"
+                BackgroundColor="LightSkyBlue"/>
+
+        <Button Text="Open JSON file"
+                Clicked="Button_Clicked_3"
+                HorizontalOptions="CenterAndExpand"/>
+
+        <Label  x:Name="textJson"
+                BackgroundColor="LightSkyBlue"/>
+
+    </StackLayout>
+
+</ContentPage>

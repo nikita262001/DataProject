@@ -1,0 +1,13 @@
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.exe
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.deps.json
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.runtimeconfig.json
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.dll
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\bin\Debug\netcoreapp3.1\ExchangerBlue.pdb
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.AssemblyInfo.cs
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.dll
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.pdb
+C:\Users\nikit\source\repos\ExchangerBlue\ExchangerBlue\obj\Debug\netcoreapp3.1\ExchangerBlue.genruntimeconfig.cache

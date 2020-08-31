@@ -1,0 +1,17 @@
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\bin\Release\netstandard2.0\MyQuiz.deps.json
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\bin\Release\netstandard2.0\MyQuiz.dll
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\bin\Release\netstandard2.0\ref\MyQuiz.dll
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\bin\Release\netstandard2.0\MyQuiz.pdb
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\Pages\EndPage.xaml.g.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\Pages\Menu.xaml.g.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\Pages\PackChoice.xaml.g.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\Pages\QuestionsPage.xaml.g.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.AssemblyInfo.cs
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.dll
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\ref\MyQuiz.dll
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz\obj\Release\netstandard2.0\MyQuiz.pdb

@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.exe
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.deps.json
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.runtimeconfig.json
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.dll
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\bin\Debug\netcoreapp3.1\QueriesLINQ.pdb
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\obj\Debug\netcoreapp3.1\QueriesLINQ.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\obj\Debug\netcoreapp3.1\QueriesLINQ.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\obj\Debug\netcoreapp3.1\QueriesLINQ.AssemblyInfo.cs
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\obj\Debug\netcoreapp3.1\QueriesLINQ.dll
+C:\Users\nikit\source\repos\QueriesLINQ\QueriesLINQ\obj\Debug\netcoreapp3.1\QueriesLINQ.pdb

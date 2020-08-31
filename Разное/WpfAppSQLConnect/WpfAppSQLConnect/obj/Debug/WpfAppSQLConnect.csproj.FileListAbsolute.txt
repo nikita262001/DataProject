@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\bin\Debug\WpfAppSQLConnect.exe.config
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\bin\Debug\WpfAppSQLConnect.exe
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\bin\Debug\WpfAppSQLConnect.pdb
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\MainWindow.g.cs
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\App.g.cs
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect_MarkupCompile.cache
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect_MarkupCompile.lref
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\MainWindow.baml
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.g.resources
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.Properties.Resources.resources
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.exe
+C:\Users\nikit\source\repos\WpfAppSQLConnect\WpfAppSQLConnect\obj\Debug\WpfAppSQLConnect.pdb

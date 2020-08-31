@@ -1,0 +1,14 @@
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\bin\Debug\netstandard2.0\FileHandling.deps.json
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\bin\Debug\netstandard2.0\FileHandling.dll
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\bin\Debug\netstandard2.0\ref\FileHandling.dll
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\bin\Debug\netstandard2.0\FileHandling.pdb
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.AssemblyInfo.cs
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.dll
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\ref\FileHandling.dll
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.pdb
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nikit\source\repos\FileHandling\FileHandling\FileHandling\obj\Debug\netstandard2.0\FileHandling.csproj.CoreCompileInputs.cache

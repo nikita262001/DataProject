@@ -1,0 +1,1 @@
+C:\Users\nikit\source\repos\MyQuiz\MyQuiz\MyQuiz.UWP\MyQuiz.UWP.csproj;x86
